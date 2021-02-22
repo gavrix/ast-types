@@ -1,0 +1,7 @@
+up:
+  - ruby: '2.6.5'
+  - node:
+      yarn: true
+      version: 14.14.0
+      packages:
+

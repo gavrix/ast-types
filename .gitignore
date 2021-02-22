@@ -3,7 +3,7 @@ test/data/babel-parser
 test/data/typescript-compiler
 
 # Ignore TypeScript-emitted files
-*.js
-*.d.ts
+#*.js
+#*.d.ts
 # Except...
 !/types/**/*.d.ts
